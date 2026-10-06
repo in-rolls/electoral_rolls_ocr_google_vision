@@ -46,7 +46,7 @@ Besides that, the other concern is that the final text file that you get from th
 ### Install
 
 ```
-git clone https://github.com/in-rolls/google_vision_ocr.git
+git clone https://github.com/in-rolls/electoral_rolls_ocr_google_vision.git
 cd google_vision_ocr
 pip install -r requirements.txt
 ```
